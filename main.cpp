@@ -6,6 +6,6 @@ int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
 
-    // Updated by Ka
+    // Updated at 20/6
     return 0;
 }
