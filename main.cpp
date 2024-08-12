@@ -1,8 +1,4 @@
-/*
-    HiCommit - Problem 1
-    Available at: https://hicommit.kakanie.com/problem/1
-*/
-
+// HICOMMIT TEMPLATE FOR C++
 #include <bits/stdc++.h>
 
 using namespace std;
